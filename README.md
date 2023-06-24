@@ -2,7 +2,8 @@
 
 <div align="center">
 
-🙌🏻 Welcome to my github pages 💻
+🙌🏻 Junior developer proficient in Japanese and Korean 💻
+As a junior developer specializing in React.js (Next.js) & Typescript, I am mainly interested in Next's SSR, ISR, deployment, and server-less functions. During my 1 year and 6 month learning process, I enjoyed hands-on experience by participating in more than two team projects and several individual projects. Currently, I am working on a personal consulting site project that aims to improve domain and SEO from project creation to deployment.
 
   </div>
 
