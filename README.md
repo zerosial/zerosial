@@ -1,7 +1,10 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=백승훈&fontAlign=70&rotate=13&fontAlignY=25&desc=front%20-end&descAlign=70&descAlignY=44)
-🙌🏻 Junior developer proficient in Japanese and Korean 💻
-<div align="center">
 
+
+<div align="center">
+🙌🏻 Junior developer proficient in Japanese and Korean 💻
+
+<br/>
 As a junior developer specializing in React.js (Next.js) & Typescript, I am mainly interested in Next's SSR, ISR, deployment, and server-less functions. During my 1 year and 6 month learning process, I enjoyed hands-on experience by participating in more than two team projects and several individual projects. Currently, I am working on a personal consulting site project that aims to improve domain and SEO from project creation to deployment.
 
   </div>
