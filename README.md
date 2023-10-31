@@ -23,7 +23,6 @@ As a junior developer specializing in React.js (Next.js) & Typescript, I am main
 
 <div align="center">
 
-![zerosial's github stats](https://github-readme-stats.vercel.app/api?username=zerosial&show_icons=true&theme=vue-dark)
 [![zerosial's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zerosial&show_icons=true&hide_border=true&theme=vue-dark&layout=compact)](https://github.com/zerosial)
 
 </div>
