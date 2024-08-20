@@ -12,7 +12,7 @@
 
   <div>
 
-- 하나의 프로덕트를 처음부터 끝까지 만들어보는 것에 흥미가 있어 Mini PC를 구입해 **도메인 구입** ([cielui.com](https://cielui.com/))부터 시작하여 **Nginx를 통한 미니PC (Docker)와 연결 및**  관련된 [프론트엔드(React)](https://github.com/zerosial/Pinemarket_Frontend_React) 와 [백엔드(Nest)](https://github.com/zerosial/Pinemarket_Backend_Nest) 프로젝트의 개발 및 동일 출처(https://pinemarket.cielui.com/) 하에 **배포**해본 경험이 있습니다.
+- 하나의 프로덕트를 처음부터 끝까지 만들어보는 것에 흥미가 있어 Mini PC를 구입해 **도메인 구입** ([cielui.com](http://cielui.com/))부터 시작하여 **Nginx를 통한 미니PC (Docker)와 연결 및**  관련된 [프론트엔드(React)](https://github.com/zerosial/Pinemarket_Frontend_React) 와 [백엔드(Nest)](https://github.com/zerosial/Pinemarket_Backend_Nest) 프로젝트의 개발 및 동일 출처(https://pinemarket.cielui.com/) 하에 **배포**해본 경험이 있습니다.
 
 - [U+ 모바일 매니저](https://play.google.com/store/apps/details?id=lgt.call&pcampaignid=web_share) 의 개발을 처음부터 끝까지 참가하며 처음에는 작은 페이지나 간단한 탭 기능부터 현재 코어기능에 해당하는 Native앱과의 이벤트 소통 및 페이지 전환 부분을 설계 및 구성하여 Native와 웹 간 화면 전환 및 이벤트의 전달과 수신 등을 처리한 경험이 있습니다.
 
